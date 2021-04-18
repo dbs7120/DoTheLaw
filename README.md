@@ -3,7 +3,7 @@
 
 ![image-20210418151042788](README.assets/image-20210418151042788.png)
 
-![](https://img.shields.io/badge/Vue.js-2.6.10-brightgreen)![](https://img.shields.io/badge/Vuetify-2.4.3-green)![](https://img.shields.io/badge/VueMaterialKit-1.2.2-yellowgreen) ![](https://img.shields.io/badge/WebRTC-red) ![](https://img.shields.io/badge/SpringBoot-2.4.2-yellow) ![](https://img.shields.io/badge/SpringBootSecurity-pink)  ![](https://img.shields.io/badge/Swagger2-2.9.2-green)![](https://img.shields.io/badge/MyBatis-2.1.4-green) ![](https://img.shields.io/badge/MySQL-8.0.23-green) ![](https://img.shields.io/badge/AWS-EC2-red) ![](https://img.shields.io/badge/ubuntu-16.04-orange) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/Jenkins-red) ![](https://img.shields.io/badge/JIRA-blue) 
+![](https://img.shields.io/badge/Vue.js-2.6.10-brightgreen) ![](https://img.shields.io/badge/Vuetify-2.4.3-green) ![](https://img.shields.io/badge/VueMaterialKit-1.2.2-yellowgreen) ![](https://img.shields.io/badge/WebRTC-red) ![](https://img.shields.io/badge/SpringBoot-2.4.2-yellow) ![](https://img.shields.io/badge/SpringBootSecurity-pink)  ![](https://img.shields.io/badge/Swagger2-2.9.2-green)![](https://img.shields.io/badge/MyBatis-2.1.4-green) ![](https://img.shields.io/badge/MySQL-8.0.23-green) ![](https://img.shields.io/badge/AWS-EC2-red) ![](https://img.shields.io/badge/ubuntu-16.04-orange) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/Jenkins-red) ![](https://img.shields.io/badge/JIRA-blue) 
 
 ---
 ## 서비스 소개
