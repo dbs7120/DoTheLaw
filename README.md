@@ -84,6 +84,11 @@ npm run serve
 
 ---
 
+## Jira 이슈 소멸 차트
+
+![image-20210418191222329](README.assets/image-20210418191222329.png)
+
+---
 
 ## 서비스 구현 화면소개
 
